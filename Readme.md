@@ -26,8 +26,9 @@ There are only official plugins from  etherpad's github
 
 
 
-#How to use this image
+## How to use this image
 
-'''
+
+```console
 docker run -d -p 9001:9001 daminoux43/etherpad-plugins
-'''
+```
