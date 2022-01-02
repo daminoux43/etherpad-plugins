@@ -9,7 +9,7 @@ docker file pour créer un containers docker etherpad avec les plugins:
 - ep_markdown
 - ep_font_family
 
-Il y uniquement les plugins officiel provenant du github d'eterpad
+Il y uniquement les plugins officiels provenant du github d'etherpad
 
 
 ## ENGLISH VERSION
