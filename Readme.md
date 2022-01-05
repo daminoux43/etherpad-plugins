@@ -32,3 +32,7 @@ There are only official plugins from  etherpad's github
 ```console
 docker run -d -p 9001:9001 daminoux43/etherpad-plugins
 ```
+
+more details 
+
+http://daminoux.fr/etherpad-plugins/
